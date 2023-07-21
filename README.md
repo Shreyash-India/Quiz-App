@@ -27,7 +27,7 @@
 
 &#10686; Application also has realtime performance correct/incorrect metric.
 
-&#10686; It is a quiz application which uses Firebase as a service for database(NO-SQL) & authentication .
+&#10686; It is a quiz application which uses Firebase as a service for database(NO-SQL) storage & authentication.
 ## Documentation
 
 &#10686; [Flutter](https://flutter.dev/)
