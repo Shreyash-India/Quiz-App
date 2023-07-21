@@ -23,11 +23,11 @@
 
 
 ## Infrence                                                                                                                         
-&#10686; Quiz app built in flutter  where you can unleash your creativity by creating your own quizzes and challenge others to test their knowledge! 
+&#10686; Quiz app built in flutter where you can unleash your creativity by creating your own quizzes and challenge others to test their knowledge.
 
-&#10686; apllication also has realtime performance metrics with acuuarcy % .
+&#10686; Application also has realtime performance correct/incorrect metric.
 
-&#10686; It is a quiz application which uses firebase as a service for database(NO-SQL) & authentication 
+&#10686; It is a quiz application which uses Firebase as a service for database(NO-SQL) & authentication .
 ## Documentation
 
 &#10686; [Flutter](https://flutter.dev/)
