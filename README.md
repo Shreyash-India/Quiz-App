@@ -1,7 +1,7 @@
 
 # Project Title
 
-&#10686; Quizzfy is a quiz App Built in Flutter
+&#10686; Quizzfy is a quiz App Built in flutter
 
 
 ## Author
@@ -16,7 +16,9 @@
 
 ## Infrence                                                                                                                         
 &#10686; Quiz app built in flutter  where you can unleash your creativity by creating your own quizzes and challenge others to test their knowledge! 
+
 &#10686; apllication also has realtime performance metrics with acuuarcy % .
+
 &#10686; It is a quiz application which uses firebase as a service for database(NO-SQL) & authentication 
 ## Documentation
 
