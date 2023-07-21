@@ -1,7 +1,7 @@
 
 # Project Title
 
-&#10686; Quizzfy is a quiz App Built in flutter
+&#10686; Quizzfy is a Quiz App Built in flutter
 
 
 ## Author
